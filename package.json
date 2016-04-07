@@ -1,0 +1,16 @@
+{
+  "name": "nodeExample",
+  "version": "1.0.0",
+  "description": "example for the class of Web Development II",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "carlosmontes002",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3"
+  }
+}
